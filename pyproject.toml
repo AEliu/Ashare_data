@@ -6,8 +6,8 @@ authors = [
     {name = "chao", email = "17284002+AEliu@users.noreply.github.com"},
 ]
 dependencies = ["httpx>=0.28.1"]
-requires-python = "==3.13.*"
-readme = "readme.md"
+requires-python = ">=3.9"
+readme = "README.md"
 license = {text = "MIT"}
 
 
